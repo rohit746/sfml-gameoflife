@@ -1,1 +1,5 @@
+*.swp
+*.exe
+tags
+test.*
 ./cmake-build-debug

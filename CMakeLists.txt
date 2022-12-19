@@ -4,5 +4,5 @@ project(gameoflife)
 find_package(SFML COMPONENTS system window graphics CONFIG REQUIRED)
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(${PROJECT_NAME} main.cpp src/Game.cpp src/Game.h src/Cell.cpp src/Cell.h)
+add_executable(${PROJECT_NAME} main.cpp)
 target_link_libraries(${PROJECT_NAME} PRIVATE sfml-system sfml-network sfml-graphics sfml-window)
