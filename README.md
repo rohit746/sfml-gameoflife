@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Conway's Game of Life
 
 This is my implementation of Conway's Game of Life written in C++ using the SFML library. This program is created for educational purpose, as I am learning to program in C++.
@@ -13,3 +14,8 @@ There are several decisions that I made regarding this implementation:
 Below is the preview:
 
 ![preview](img/preview.gif)
+=======
+# sfml-gameoflife
+Conway's Game of Life made using C++ and SFML.
+vcpkg is used as the package manager.
+>>>>>>> origin/main
